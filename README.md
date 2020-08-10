@@ -1,1 +1,1 @@
-Layout pego da internet com o intuito de praticar FRONT-END
+Layout pego da internet com o intuito de praticar FRONT-END com Bootstrap 4, CSS3, HTML5 e JavaScript
